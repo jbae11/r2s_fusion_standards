@@ -1,0 +1,2 @@
+orcs/ filter=lfs diff=lfs merge=lfs -text
+shift_pyne/ filter=lfs diff=lfs merge=lfs -text
