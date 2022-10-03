@@ -1,0 +1,2 @@
+problems/iter_sddr_benchmark/orcs filter=lfs diff=lfs merge=lfs -text
+problems/iter_sddr_benchmark/shift_pyne filter=lfs diff=lfs merge=lfs -text
