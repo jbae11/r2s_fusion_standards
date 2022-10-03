@@ -26,4 +26,4 @@ Contains scripts for reading and writing r2s data
 
 1. `iter_sddr_benchmark`
 
-![iter_sddr_benchmark](https://github.com/jbae11/r2s_standards/problems/iter_sddr_benchmark/imgs/iter_sddr_comp_benchmark.png)
+![iter_sddr_benchmark]([https://github.com/jbae11/r2s_standards/problems/iter_sddr_benchmark/imgs/iter_sddr_comp_benchmark.png](https://github.com/jbae11/r2s_standards/blob/main/problems/iter_sddr_benchmark/imgs/iter_sddr_comp_benchmark.png))
